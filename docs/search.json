@@ -1,0 +1,30 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-01-17T22:19:14-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "YADS",
+      "description": "Yet Another Distill Site\n",
+      "author": [],
+      "contents": "\n\nContents\nProducts\nScience\nELA\nMath\nReading\n\nProjects\nCOVID-19 Response\n\n\nThis is a sandbox site for me to mess around with Distill. I’m using this framework to rebuild an internal documentation site at work and this sandbox is where I can test out crazy layouts and really get wild with CSS.\nProducts\nScience\nELA\nMath\nReading\nProjects\nCOVID-19 Response\n\n\n\n",
+      "last_modified": "2021-01-17T22:19:14-05:00"
+    },
+    {
+      "path": "updates.html",
+      "title": "Updates",
+      "description": "What's new and what's coming soon\n",
+      "author": [],
+      "date": "`r Sys.Date()`",
+      "contents": "\nNew\nComing Soon\nDemos\n\n\n\n",
+      "last_modified": "2021-01-17T22:19:15-05:00"
+    }
+  ],
+  "collections": []
+}

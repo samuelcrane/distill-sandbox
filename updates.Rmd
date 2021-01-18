@@ -1,0 +1,22 @@
+---
+title: "Updates"
+description: |
+  What's new and what's coming soon
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## New
+
+## Coming Soon
+
+## Demos
+
+
+
+
+

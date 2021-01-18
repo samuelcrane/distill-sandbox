@@ -1,0 +1,38 @@
+---
+title: "YADS"
+description: |
+  Yet Another Distill Site
+site: distill::distill_website
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+This is a sandbox site for me to mess around with Distill. I'm using this framework to rebuild an internal documentation site at work and this sandbox is where I can test out crazy layouts and really get wild with CSS. 
+
+## Products
+
+### Science
+
+### ELA
+
+### Math
+
+### Reading
+
+## Projects
+
+### COVID-19 Response
+
